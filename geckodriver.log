@@ -1352,3 +1352,253 @@ unwatchForTargets()@TargetList.jsm:37
 destructor()@TargetList.jsm:109
 stop()@CDP.jsm:104
 close()@RemoteAgent.jsm:138
+1657837310473	geckodriver	INFO	Listening on 127.0.0.1:60245
+1657837310599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileK87lWy"
+1657837315504	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK87lWy/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:48227/devtools/browser/45eae667-0fd0-45bd-ab20-dfd80cceaacb
+1657837322633	Marionette	INFO	Listening on port 37711
+Read port: 37711
+1657837322679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657837399249	Marionette	INFO	Stopped listening on port 37711
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657837861790	geckodriver	INFO	Listening on 127.0.0.1:59685
+1657837862296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9lE2ug"
+1657837863654	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9lE2ug/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60705/devtools/browser/a1374987-cd25-4921-92fa-2fe18c9c3286
+1657837866495	Marionette	INFO	Listening on port 34417
+Read port: 34417
+1657837866527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1657838516985	Marionette	INFO	Stopped listening on port 34417
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657891510072	geckodriver	INFO	Listening on 127.0.0.1:40433
+1657891510598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileldZ7wI"
+1657891512219	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileldZ7wI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55175/devtools/browser/1c128ffb-5016-4f75-b640-239d8910dc50
+1657891517749	Marionette	INFO	Listening on port 33151
+Read port: 33151
+1657891517897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1657891532572	Marionette	INFO	Stopped listening on port 33151
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657891570056	geckodriver	INFO	Listening on 127.0.0.1:43501
+1657891570560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepZQRPY"
+1657891571969	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepZQRPY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58533/devtools/browser/f608c401-e968-4106-87d6-a549e67c18ac
+1657891574954	Marionette	INFO	Listening on port 45539
+Read port: 45539
+1657891575011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657891588908	Marionette	INFO	Stopped listening on port 45539
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657891625112	geckodriver	INFO	Listening on 127.0.0.1:48249
+1657891625622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXdhuhz"
+1657891628396	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXdhuhz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47391/devtools/browser/2ac1bc03-5a28-4ac1-a926-10deb67f4a65
+1657891631889	Marionette	INFO	Listening on port 42187
+Read port: 42187
+1657891631977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657891775901	geckodriver	INFO	Listening on 127.0.0.1:37089
+1657891776406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59941" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3fy8RV"
+1657891777925	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3fy8RV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59941/devtools/browser/41be23c5-e564-4068-a6bb-e7807891c91e
+1657891781088	Marionette	INFO	Listening on port 35939
+Read port: 35939
+1657891781200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657891831012	Marionette	INFO	Stopped listening on port 42187
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657891832632	Marionette	INFO	Stopped listening on port 35939
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657891835216	geckodriver	INFO	Listening on 127.0.0.1:47735
+1657891835726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekOS32U"
+1657891838463	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekOS32U/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47945/devtools/browser/7f0e7007-e648-44b4-8312-9ed1333212c2
+1657891843921	Marionette	INFO	Listening on port 42505
+Read port: 42505
+1657891843998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657891951933	Marionette	INFO	Stopped listening on port 42505
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657892064226	geckodriver	INFO	Listening on 127.0.0.1:37007
+1657892064730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesHZJBf"
+1657892066278	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesHZJBf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58553/devtools/browser/d2bdab24-1395-433c-8cc8-571accd9fc59
+1657892069625	Marionette	INFO	Listening on port 36225
+Read port: 36225
+1657892069686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657892209659	Marionette	INFO	Stopped listening on port 36225
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657892218463	geckodriver	INFO	Listening on 127.0.0.1:56415
+1657892218968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7Lilvd"
+1657892220313	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7Lilvd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33525/devtools/browser/360546da-ec50-459c-8729-f20b99e40b40
+1657892223303	Marionette	INFO	Listening on port 46773
+Read port: 46773
+1657892223409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657892257207	Marionette	INFO	Stopped listening on port 46773
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657892299811	geckodriver	INFO	Listening on 127.0.0.1:50655
+1657892300316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilea26gLv"
+1657892301671	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea26gLv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56847/devtools/browser/e0f63a64-e8dc-43bc-9362-8add44e6a18f
+1657892304285	Marionette	INFO	Listening on port 44555
+Read port: 44555
+1657892304346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657892522239	geckodriver	INFO	Listening on 127.0.0.1:38363
+1657892522744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewJtI6T"
+1657892524112	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewJtI6T/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58293/devtools/browser/c523495e-f763-4eed-a00d-32833a354e59
+1657892526889	Marionette	INFO	Listening on port 38591
+Read port: 38591
+1657892526984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657892567598	Marionette	INFO	Stopped listening on port 38591
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657892583077	Marionette	INFO	Stopped listening on port 44555
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657892765305	geckodriver	INFO	Listening on 127.0.0.1:51871
+1657892765814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejZ8maF"
+1657892767741	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejZ8maF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54251/devtools/browser/be881a4a-4fac-40a2-87c4-55bbef31379b
+1657892771858	Marionette	INFO	Listening on port 37847
+Read port: 37847
+1657892771961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+1657892981302	Marionette	INFO	Stopped listening on port 37847
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657892982140	geckodriver	INFO	Listening on 127.0.0.1:33257
+1657892982652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehQrXjB"
+1657892985721	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehQrXjB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46031/devtools/browser/7f6f5845-e1b6-4705-9ae8-4b17c30a4609
+1657892989859	Marionette	INFO	Listening on port 38545
+Read port: 38545
+1657892989913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657893498479	Marionette	INFO	Stopped listening on port 38545
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1657893635078	geckodriver	INFO	Listening on 127.0.0.1:57561
+1657893635599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9ZywdS"
+1657893641960	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9ZywdS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37385/devtools/browser/347859cd-b68d-4831-b14e-9a4c45f2db8a
+1657893646473	Marionette	INFO	Listening on port 46163
+Read port: 46163
+1657893646585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 4930 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 7167 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657893803372	Marionette	INFO	Stopped listening on port 46163
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657893950711	geckodriver	INFO	Listening on 127.0.0.1:60485
+1657893951216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileh9aOXL"
+1657893953484	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh9aOXL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50171/devtools/browser/cb11037a-9d3b-4f9d-85e2-231c7288d7f1
+1657893958320	Marionette	INFO	Listening on port 45353
+Read port: 45353
+1657893958408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 1186 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 6299 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1657894095410	Marionette	INFO	Stopped listening on port 45353
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657894116988	geckodriver	INFO	Listening on 127.0.0.1:37173
+1657894117499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemOhoyz"
+1657894119759	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemOhoyz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42533/devtools/browser/3a36697c-ed83-4a53-8da0-c0b21cfc7789
+1657894126044	Marionette	INFO	Listening on port 43975
+Read port: 43975
+1657894126223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657894253161	Marionette	INFO	Stopped listening on port 43975
+1657894357265	geckodriver	INFO	Listening on 127.0.0.1:60295
+1657894357795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWsur4x"
+1657894364059	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWsur4x/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59267/devtools/browser/58cfa10e-591a-4119-bb45-356647f53c8d
+1657894372036	Marionette	INFO	Listening on port 46065
+Read port: 46065
+1657894372106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 1438 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 558 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657894594969	Marionette	INFO	Stopped listening on port 46065
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1657894634880	geckodriver	INFO	Listening on 127.0.0.1:52605
+1657894635432	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuY7dMA"
+1657894640239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuY7dMA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51181/devtools/browser/b290f212-768c-4e0e-aa50-47bfea775fea
+1657894646912	Marionette	INFO	Listening on port 37215
+Read port: 37215
+1657894647021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 3643 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 6050 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 523 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657894819248	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 4736 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657894890330	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 5932 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
