@@ -1602,3 +1602,25 @@ TimedPromise@chrome://remote/content/marionette/sync.js:220:10
 interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
 webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
 JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 5932 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657895172420	Marionette	INFO	Stopped listening on port 37215
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657895765616	geckodriver	INFO	Listening on 127.0.0.1:59621
+1657895765675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38949" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexZNQwn"
+1657895769761	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexZNQwn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38949/devtools/browser/28ca9eb6-acd6-4a9e-90db-1a93907df49e
+1657895776177	Marionette	INFO	Listening on port 42621
+Read port: 42621
+1657895776316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.onlinesoccermanager.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 5547 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 3159 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657895889464	Marionette	INFO	Stopped listening on port 42621
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

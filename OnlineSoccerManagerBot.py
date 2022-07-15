@@ -3,10 +3,10 @@ from selenium.webdriver.firefox.service import Service as FirefoxService
 from webdriver_manager.firefox import GeckoDriverManager
 import time
 
-print('loool')
 service = FirefoxService(executable_path=GeckoDriverManager().install())
 
 driver = webdriver.Firefox(service=service)
+
 def login(user,password):
     driver.get('https://en.onlinesoccermanager.com/Dashboard')
     time.sleep(10)
@@ -19,12 +19,17 @@ def login(user,password):
     driver.find_element("xpath",'//*[@id="login"]').click()
     time.sleep(15)
 
+def getBusinessTokens():
 
-login('Hernan Gutierez','dtijcpxjdx')
+    driver.get('https://en.onlinesoccermanager.com/BusinessClub')
+    time.sleep(20)
+    for j in range (3):
+        driver.find_element("xpath",'/html/body/div[3]/div[4]/div/div/div[2]/div[2]/div/div[1]/div/div/div/div[2]').click()
+        time.sleep(70)
 
-driver.get('https://en.onlinesoccermanager.com/BusinessClub')
-time.sleep(20)
 
-for j in range (3):
-    driver.find_element("xpath",'/html/body/div[3]/div[4]/div/div/div[2]/div[2]/div/div[1]/div/div/div/div[2]').click()
-    time.sleep(70)
+user=input('Online Soccer Manager User: ')
+password=input('Online Soccer Manager Password: ')
+
+login(user,password)
+
