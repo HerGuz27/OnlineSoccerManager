@@ -10,6 +10,7 @@ class OnlineSoccerManagerService:
     def __init__(self):
         self.options = Options()
         self.options.add_argument("--headless")
+        self.options.set_preference("media.volume_scale", "0.0")
         self.driver = webdriver.Firefox(options=self.options)
         self.user = os.environ['USER']
         self.password = os.environ['PASSWORD']
@@ -59,6 +60,7 @@ class OnlineSoccerManagerService:
         #array to get the four coins
         for i in range(3):
             self.driver.find_element('css selector', 'div.product-free:nth-child(1)').click()
+            print('viewing add')
             time.sleep(30)
 
         for j in range (3):
